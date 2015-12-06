@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="pi"
+	ProjectGUID="{ABCC2FA2-C41E-4F3C-A0AA-084CE91466BD}"
+	VCNestedProjectGUID="{91ACD24C-2BEF-4D13-BC67-E26ECAB32706}"
+	VCNestedProjectFileName="pi.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>
